@@ -1,0 +1,22 @@
+{
+  "name": "randomizer-database",
+  "version": "1.0.0",
+  "description": "database for counter on randomizer hero code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin6767/randomizer-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin6767/randomizer-database/issues"
+  },
+  "homepage": "https://github.com/kevin6767/randomizer-database#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
